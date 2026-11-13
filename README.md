@@ -10,7 +10,7 @@ Built using React.js, Django, and Django REST Framework.Mindmap
 
 You can check the project mindmap [here](https://coggle.it/diagram/ZjMdhx8BY6Wpk0y2/t/api-d)
 
-!\[ecom\_project\_mindmap](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/9bd5029a-3ae0-47cf-991f-0e532580f40d)
+!\[ecom\_project\_mindmap](https://github.com/codersingh74/ ThreadCart/assets/95096218/9bd5029a-3ae0-47cf-991f-0e532580f40d)
 
 ## Features
 
