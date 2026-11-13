@@ -83,16 +83,3 @@ You can check the project mindmap [here](https://coggle.it/diagram/ZjMdhx8BY6Wpk
 
 
 
-# Pages
-
-!\\\[homepage](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/b9b627da-b0ec-4625-9c30-1f8ce7cfa9ca)
-
-!\\\[signuppage](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/129ad0c9-d9a9-46cd-a423-0c5f56ed28a3)
-
-!\\\[singinpage](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/9fb9e6e6-4d7f-4387-908e-ca6c065eb8dc)
-
-
-
-!\\\[cartpage](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/b77d70e1-0a34-4753-b5f7-9990fa84f276)
-
-
